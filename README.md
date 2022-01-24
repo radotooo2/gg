@@ -3,6 +3,7 @@ PixiJS — The HTML5 Creation Engine
 PixiJS — The HTML5 Creation Engine
 PixiJS — The HTML5 Creation Engine
 PixiJS — The HTML5 Creation Engine
+PixiJS — The HTML5 Creation Engine
 =============
 
 ![pixi.js logo](https://pixijs.download/pixijs-banner-no-version.png)
